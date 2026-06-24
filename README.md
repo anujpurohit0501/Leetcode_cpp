@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
+| [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
