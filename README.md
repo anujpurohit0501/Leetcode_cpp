@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +55,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
