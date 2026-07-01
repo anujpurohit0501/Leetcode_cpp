@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Divide and Conquer
 |  |
 | ------- |
