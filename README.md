@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
+| [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
+| [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
