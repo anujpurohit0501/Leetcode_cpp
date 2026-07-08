@@ -13,8 +13,8 @@ public:
         long long add=0;
         for(char c:ans){
             string p(1,c);
-            add+=(long long)stoll(p);
+            add+=stoll(p);
         }
-        return (long long)stoll(ans)*add;
+        return stoll(ans)*add;
     }
 };
