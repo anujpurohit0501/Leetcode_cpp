@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0056-merge-intervals) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
 ## Number Theory
 |  |
