@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
