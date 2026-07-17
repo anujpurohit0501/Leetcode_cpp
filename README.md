@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
