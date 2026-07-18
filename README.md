@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
