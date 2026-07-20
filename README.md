@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1046-last-stone-weight) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
+| [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
