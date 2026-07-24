@@ -14,7 +14,7 @@ public:
         if(head==nullptr||head->next==nullptr)return head;
         ListNode* one=head;
         ListNode* two=head->next;
-        one->next=swapPairs(one->next->next);
+        one->next=swapPairs(two->next);
         two->next=one;
         return two;
 
