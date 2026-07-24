@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
