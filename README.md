@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Divide and Conquer
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
