@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
