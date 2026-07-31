@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
