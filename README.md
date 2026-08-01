@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2187-minimum-time-to-complete-trips) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
