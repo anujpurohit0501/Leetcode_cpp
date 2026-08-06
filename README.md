@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Heap (Priority Queue)
 |  |
