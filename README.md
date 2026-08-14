@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Stack
 |  |
