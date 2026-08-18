@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3355-zero-array-transformation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3355-zero-array-transformation-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Game Theory
 |  |
 | ------- |
