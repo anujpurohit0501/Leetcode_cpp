@@ -6,7 +6,7 @@ public:
         string p=bitset<32>(x).to_string();
         string o=bitset<32>(k).to_string();
         int c=0;
-        for(int i=0;i<33;i++){
+        for(int i=0;i<32;i++){
             if(p[i]!=o[i])c++;
         }return c;
     }
