@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3355-zero-array-transformation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3355-zero-array-transformation-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
