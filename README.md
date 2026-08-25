@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2187-minimum-time-to-complete-trips) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
