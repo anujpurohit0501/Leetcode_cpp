@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0503-next-greater-element-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
+| [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
@@ -425,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
