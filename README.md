@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3733-minimum-time-to-complete-all-deliveries](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3733-minimum-time-to-complete-all-deliveries](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 ## Matrix
 |  |
 | ------- |
