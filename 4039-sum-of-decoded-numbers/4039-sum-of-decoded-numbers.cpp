@@ -1,9 +1,7 @@
 class Solution {
 public:
-
     long long powe(long long f,long long y){
         long long mod=1000000007;
-        f%=mod;
         if(y==0)return 1;
         long long r=powe(f,y/2);
         if(y%2==0)return r*r%mod;
