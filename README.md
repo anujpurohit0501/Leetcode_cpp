@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
