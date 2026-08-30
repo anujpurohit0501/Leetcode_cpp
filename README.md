@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1049-last-stone-weight-ii) |
@@ -445,12 +448,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
