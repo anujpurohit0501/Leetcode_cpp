@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
@@ -477,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0956-tallest-billboard) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
