@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Two Pointers
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Geometry
 |  |
 | ------- |
