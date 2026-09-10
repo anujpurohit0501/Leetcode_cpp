@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
