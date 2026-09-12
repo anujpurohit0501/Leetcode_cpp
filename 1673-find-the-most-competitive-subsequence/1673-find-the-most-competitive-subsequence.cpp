@@ -2,12 +2,13 @@ class Solution {
 public:
     vector<int> mostCompetitive(vector<int>& nums, int k) {
         stack<int>st;
-        int p=k;
-        int l=nums.size()-k;
-        for(int i:nums){
-            
-           while(st.size()>0 && st.top()>i &&l){st.pop();l--;}
-           st.push(i);
+        int n=nums.size();
+        
+        for(int i=0;i<nums.size();i++){
+           //check ki kya hm total k bande bana payenge 
+           
+           while(st.size()>0 && st.top()>nums[i] &&n-i+st.size()>k){st.pop();}
+           st.push(nums[i]);
 
         }
         vector<int>ans;
