@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0875-koko-eating-bananas) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 ## Number Theory
