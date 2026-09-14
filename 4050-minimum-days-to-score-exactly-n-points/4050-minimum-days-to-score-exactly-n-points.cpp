@@ -12,7 +12,7 @@ int f(int a,int b){
 }
     int minDays(int n) {
         this->n=n;
-        arr.assign(100001,-1);
+        arr.assign(100001,-0);
         return f(0,1);
     }
 };
