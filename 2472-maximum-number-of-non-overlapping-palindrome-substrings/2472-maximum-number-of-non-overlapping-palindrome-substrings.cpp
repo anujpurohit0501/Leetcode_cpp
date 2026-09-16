@@ -5,7 +5,7 @@ bool check(int i,int j,string &s){
     if(i>=j)return true;
     if(pal[i][j]!=-1)return pal[i][j];
     if(i==j-1)return pal[i][j]=s[i]==s[j];
-    if(s[i]!=s[j])return false;
+    if(s[i]!=s[j])return pal[i][j]=false;
     else return pal[i][j]=check(i+1,j-1,s);
 
 }
@@ -19,8 +19,8 @@ int f(int i,int j){
     if(check(i,j,s)){
         int take=1+f(j+1,j+k);
         int ex=f(i,j+1);
-        int skip=f(i+1,j+1);
-        return dp[i][j]=max({take,ex,skip});
+        
+        return dp[i][j]=max({take,ex});
     }
     else {
         int ex=f(i,j+1);
@@ -33,9 +33,9 @@ int f(int i,int j){
         this->s=s;
         this->k=k;
         n=s.size();
-        memset(pal,-1,sizeof(pal));
-        memset(dp,-1,sizeof(dp));
         
+        memset(dp,-1,sizeof(dp));
+        memset(pal,-1,sizeof(pal));
         return f(0,k-1);
     }
 };
