@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0392-is-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
