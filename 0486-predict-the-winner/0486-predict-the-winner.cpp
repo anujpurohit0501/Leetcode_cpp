@@ -1,21 +1,24 @@
 class Solution {
 public:
-vector<int>nums;
 int dp[21][21];
-int f(int a,int b){
-    if(a>b)return 0;
-    if(a==b)return nums[a];
-    if(dp[a][b]!=-1)return dp[a][b]; 
-    int takea=nums[a]+min(f(a+1,b-1),f(a+2,b));
-    int takeb=nums[b]+min(f(a+1,b-1),f(a,b-2));
-    return dp[a][b]= max(takea,takeb);
+int n;
+vector<int>nums;
+int f(int i,int j){
+    if(i>j)return 0;
+    if(dp[i][j]!=-1)return dp[i][j];
+    if(i==j){
+        if(n%2)return nums[i];
+        else return -nums[i];
+    }int takei=nums[i]-f(i+1,j);
+    int takej=nums[j]-f(i,j-1);
+    return dp[i][j]= max(takei,takej);
+
 }
     bool predictTheWinner(vector<int>& nums) {
-        
         this->nums=nums;
+        n=nums.size();
         memset(dp,-1,sizeof(dp));
-        long long sum=accumulate(nums.begin(),nums.end(),0LL);
-        long long tt=f(0,nums.size()-1);
-        return tt>=sum-tt;
+        int tt= f(0,nums.size()-1);
+        return tt>=0;
     }
 };
