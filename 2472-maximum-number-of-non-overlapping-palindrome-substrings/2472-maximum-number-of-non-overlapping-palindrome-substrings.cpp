@@ -1,12 +1,12 @@
 class Solution {
 public:
+int pal[2001][2001];
 bool check(int i,int j,string &s){
-    while(i<j){
-        if(s[i]!=s[j])return false;
-        i++;
-        j--;
-    }
-    return true;
+    if(i>=j)return true;
+    if(pal[i][j]!=-1)return pal[i][j];
+    if(i==j-1)return pal[i][j]=s[i]==s[j];
+    if(s[i]!=s[j])return false;
+    else return pal[i][j]=check(i+1,j-1,s);
 
 }
 int dp[2001][2001];
@@ -33,7 +33,9 @@ int f(int i,int j){
         this->s=s;
         this->k=k;
         n=s.size();
+        memset(pal,-1,sizeof(pal));
         memset(dp,-1,sizeof(dp));
+        
         return f(0,k-1);
     }
 };
