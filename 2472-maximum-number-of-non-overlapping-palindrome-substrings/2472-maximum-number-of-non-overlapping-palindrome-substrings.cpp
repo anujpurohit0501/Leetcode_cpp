@@ -18,9 +18,7 @@ int f(int i,int j){
     if(dp[i][j]!=-1)return dp[i][j];
     if(check(i,j,s)){
         int take=1+f(j+1,j+k);
-        int ex=f(i,j+1);
-        
-        return dp[i][j]=max({take,ex});
+        return dp[i][j]=take;
     }
     else {
         int ex=f(i,j+1);
