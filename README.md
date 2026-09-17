@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1711-count-good-meals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1711-count-good-meals) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 ## Database
 |  |
 | ------- |
@@ -625,10 +631,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
+| [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
