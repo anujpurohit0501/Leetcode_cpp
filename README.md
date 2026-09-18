@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0172-factorial-trailing-zeroes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
