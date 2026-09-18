@@ -8,7 +8,7 @@ int f(int i,int j){
     if(dp[i][j]!=-1)return dp[i][j];
     int ans=1e9;
     for(int k=i;k<=j;k++){
-        ans=min(ans,k+max(f(i,k-1),f(k+1,j)));
+        ans=min(ans,max(k+f(i,k-1),k+f(k+1,j)));
     }return dp[i][j]=ans;
 }
     int getMoneyAmount(int n) {
