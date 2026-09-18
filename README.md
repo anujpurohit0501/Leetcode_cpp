@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
+| [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
 | [0956-tallest-billboard](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1092-shortest-common-supersequence) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
+| [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
 | [1362-closest-divisors](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1362-closest-divisors) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
 ## Minimax
 |  |
 | ------- |
