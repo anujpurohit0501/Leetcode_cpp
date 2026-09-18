@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -649,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
