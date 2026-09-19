@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1711-count-good-meals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1711-count-good-meals) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2187-minimum-time-to-complete-trips) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 ## Backtracking
 |  |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1291-sequential-digits) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
