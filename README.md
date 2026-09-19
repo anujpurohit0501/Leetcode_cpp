@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0876-middle-of-the-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
