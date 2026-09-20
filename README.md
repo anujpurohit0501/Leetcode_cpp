@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3840-house-robber-v](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3840-house-robber-v) |
 ## Monotonic Stack
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
