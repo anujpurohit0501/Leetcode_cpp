@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
@@ -556,11 +557,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
