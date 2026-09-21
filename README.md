@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
