@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
@@ -699,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
