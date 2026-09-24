@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
