@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1291-sequential-digits) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
