@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2055-plates-between-candles](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2055-plates-between-candles) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3026-maximum-good-subarray-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3026-maximum-good-subarray-sum) |
 | [3355-zero-array-transformation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3355-zero-array-transformation-i) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3733-minimum-time-to-complete-all-deliveries) |
