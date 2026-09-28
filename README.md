@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2055-plates-between-candles) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
