@@ -10,8 +10,8 @@ public:
             
         }
         a.push_back(pq.top().first);
-        for(int i=0;i<n-k;i++){
-            int r=i+k;
+        for(int r=k;r<n;r++){
+            int i=r-k;
             st.insert(i);
             pq.push({nums[r],r});
     
