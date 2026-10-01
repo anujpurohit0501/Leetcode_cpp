@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3355-zero-array-transformation-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
