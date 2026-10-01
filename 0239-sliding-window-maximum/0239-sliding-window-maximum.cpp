@@ -12,10 +12,9 @@ public:
         a.push_back(pq.top().first);
         for(int r=k;r<n;r++){
             int i=r-k;
-            st.insert(i);
             pq.push({nums[r],r});
     
-            while(pq.size()>0&&st.contains(pq.top().second)){
+            while((pq.size()>0)&& (i>=pq.top().second ||pq.top().second>r)){
                 pq.pop();
             }
             a.push_back(pq.top().first);
