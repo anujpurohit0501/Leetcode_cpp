@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
 | [1711-count-good-meals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1711-count-good-meals) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
