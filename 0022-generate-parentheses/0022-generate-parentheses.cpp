@@ -1,22 +1,17 @@
-void fun(vector<string> &ans,string s,int open,int close,int n){
-    if(s.size()==n){
-        ans.push_back(s);
-        return; 
-    }
-    int half=n/2;
-    if(open<half){
-        fun(ans,s+"(",open+1,close,n);
-    }
-    if(close<open) {
-        fun(ans,s+")",open,close+1,n);
-    }
-}
-
 class Solution {
 public:
+vector<string> f(vector<string>&a,int n,int open,int close,string s){
+    if(open+close==n){a.push_back(s);return a;}
+    if(open<n/2){
+         f(a,n,open+1,close,s+'(');
+    }
+    if(close<open){
+         f(a,n,open,close+1,s+')');
+    }
+    return a;
+}
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        fun(ans,"",0,0,2*n);
-        return ans;
+        vector<string>a;
+        return f(a,2*n,0,0,"");
     }
 };
