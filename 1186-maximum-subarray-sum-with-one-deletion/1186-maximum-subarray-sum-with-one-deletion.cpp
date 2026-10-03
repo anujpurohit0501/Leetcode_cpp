@@ -7,7 +7,6 @@ vector<int> pre(){
     for(int i:arr){
         s+=i;
         s=max(s,i);
-    
         a.push_back(s);
     }return a;
 }
@@ -18,7 +17,6 @@ vector<int>suff(){
     for(int i=arr.size()-1;i>=0;i--){
         s+=arr[i];
         s=max(s,arr[i]);
-     
         a[i]=s;
     }
     return a;
