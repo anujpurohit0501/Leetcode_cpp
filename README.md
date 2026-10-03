@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1049-last-stone-weight-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
