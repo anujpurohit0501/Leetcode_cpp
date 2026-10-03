@@ -1,31 +1,20 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        int l=0,r=0,mx=-0;
-        for(char &c:s){
-            if(c=='(')l++;
-            else r++;
-
-            if(r>l){
-                r=0;
-                l=0;
-            }
-            if(r==l){
-                mx=max(mx,l+r);
-            }
+        int o=0,cl=0,ans=0;
+        for(char c:s){
+            if(c=='(')o++;
+            else cl++;
+            if(cl>o){o=0;cl=0;}//reset bcz valid parenthese cant be like ()))))(())
+            if(cl==o)ans=max(ans,cl+o);
         }
-        l=0,r=0;
+        o=0;cl=0;
         for(int i=s.size()-1;i>=0;i--){
             char c=s[i];
-            if(c=='(')l++;
-            else r++;
-            if(l>r){
-                l=0;
-                r=0;
-
-            }
-            if(r==l)mx=max(l+r,mx);
-        }
-        return mx;
+            if(c=='(')o++;
+            else cl++;
+            if(cl<o){o=0;cl=0;}//reset bcz valid parenthese cant be like ()))))(())
+            if(cl==o)ans=max(ans,cl+o);
+        }return ans;
     }
 };
