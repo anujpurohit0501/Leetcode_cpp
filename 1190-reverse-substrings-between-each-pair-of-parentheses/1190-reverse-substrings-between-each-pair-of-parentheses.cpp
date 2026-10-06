@@ -9,7 +9,7 @@ public:
                 while(st.size()>0&&st.top()!='('){
                     p+=st.top();
                     st.pop();
-                }
+                }p+=st.top();
                 st.pop();
         for(char u:p){if(u!='('&&u!=')')st.push(u);}
             }
