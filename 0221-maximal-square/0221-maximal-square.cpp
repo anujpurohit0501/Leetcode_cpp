@@ -19,8 +19,9 @@ public:
         }
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                a=max(dp[i][j],a);
+                int k=pow(dp[i][j],2);
+                a=max(k,a);
             }
-        }return a*a;
+        }return a;
     }
 };
