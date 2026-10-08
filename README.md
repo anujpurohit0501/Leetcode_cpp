@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0931-minimum-falling-path-sum) |
