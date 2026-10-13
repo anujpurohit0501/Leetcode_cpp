@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3733-minimum-time-to-complete-all-deliveries) |
