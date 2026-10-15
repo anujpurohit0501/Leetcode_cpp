@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0125-valid-palindrome) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
