@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1340-jump-game-v](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1340-jump-game-v) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Number Theory
 |  |
