@@ -7,7 +7,12 @@ public:
         if(p==s)return 0;
         if(p[0]==s[0]||p.back()==s.back())return 1;
         if(p.size()==2)return -1;
-        if(s[0]==p.back()&&p[n-1]!=p[n-2]&&s.back()==p[0]&&p[0]!=p[1])return 3;
-        return 2;
+        string q=s;
+        sort(s.begin(),s.end()-1);
+        sort(s.begin()+1,s.end());
+        sort(q.begin()+1,q.end());
+        sort(q.begin(),q.end()-1);
+        if(q==p||p==s)return 2;
+        return 3;
     }
 };
