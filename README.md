@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Game Theory
 |  |
 | ------- |
