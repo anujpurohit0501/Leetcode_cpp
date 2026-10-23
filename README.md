@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2140-solving-questions-with-brainpower) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2187-minimum-time-to-complete-trips) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1980-find-unique-binary-string) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2212-maximum-points-in-an-archery-competition) |
 ## Binary Search
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1291-sequential-digits) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
