@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0386-lexicographical-numbers) |
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Combinatorics
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0241-different-ways-to-add-parentheses) |
 ## Union-Find
 |  |
@@ -909,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
