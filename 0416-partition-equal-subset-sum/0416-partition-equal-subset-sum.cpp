@@ -1,21 +1,26 @@
 class Solution {
 public:
-    int t[202][10000];
-    bool f(int ans,vector<int>& nums,int n,int h){
-        if(ans==h)return true;
-        if(ans>h||n==0)return false;
-        if(t[n][ans]!=-1)return t[n][ans];
-        if(nums[n-1]+ans<=h){
-            return t[n][ans]=f(ans+nums[n-1],nums,n-1,h)||f(ans,nums,n-1,h);
-        }else {
-            return t[n][ans]=f(ans,nums,n-1,h);
-        }
-    }
+int t;
+int dp[201][20001];
+vector<int>nums;
+bool f(int i ,int a){
+    int n=nums.size();
+    if(a==t/2)return 1;
+    if(i>=n)return 0;
+    if(a>t/2)return 0;
+    if(dp[i][a]!=-1)return dp[i][a];
+    //take
+    bool take=f(i+1,nums[i]+a);
+    bool no=f(i+1,a);
+    return dp[i][a]=take||no;
+
+}
     bool canPartition(vector<int>& nums) {
-        memset(t,-1,sizeof(t));
-        int sum=accumulate(nums.begin(),nums.end(),0);
-        if(sum%2==1)return false;
-        int half=sum/2;
-        return f(0,nums,nums.size(),half);
+        int t=accumulate(nums.begin(),nums.end(),0);
+        if(t%2==1)return 0;
+        this->t=t;
+        this->nums=nums;
+        memset(dp,-1,sizeof(dp));
+        return f(0,0);
     }
 };
