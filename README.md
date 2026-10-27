@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0825-friends-of-appropriate-ages](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0835-image-overlap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0825-friends-of-appropriate-ages](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0825-friends-of-appropriate-ages](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0825-friends-of-appropriate-ages](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0887-super-egg-drop) |
