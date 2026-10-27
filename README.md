@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0877-stone-game) |
+| [0878-nth-magical-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0887-super-egg-drop) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2055-plates-between-candles](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2055-plates-between-candles) |
@@ -798,10 +800,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Least Common Multiple
 |  |
 | ------- |
+| [0878-nth-magical-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0878-nth-magical-number) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
+| [0878-nth-magical-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0878-nth-magical-number) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Knapsack Problem
 |  |
