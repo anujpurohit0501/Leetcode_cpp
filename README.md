@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0825-friends-of-appropriate-ages](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0853-car-fleet) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
@@ -705,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
