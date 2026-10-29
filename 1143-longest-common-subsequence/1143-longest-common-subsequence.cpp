@@ -1,18 +1,19 @@
 class Solution {
 public:
-int tt[1001][1001];
-int f(string &t, string &s,int n,int m){
-    //base case
-    if(n==0||m==0)return 0;
-    if(tt[n][m]!=-1)return tt[n][m];
-    if(t[n-1]==s[m-1])return tt[n][m]=1+f(t,s,n-1,m-1);
-    
-    else {
-        return tt[n][m]= max(f(t,s,n,m-1),f(t,s,n-1,m));
-    }
-}
-    int longestCommonSubsequence(string text1, string text2) {
-        memset(tt,-1,sizeof(tt));
-        return f(text1,text2,text1.size(),text2.size());
+    int longestCommonSubsequence(string s, string t) {
+        int n=s.size();
+        int m=t.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s[i-1]==t[j-1]){
+                    dp[i][j]=dp[i-1][j-1]+1;
+                }
+                else {
+                    dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                }
+            }
+        }
+        return dp[n][m];
     }
 };
