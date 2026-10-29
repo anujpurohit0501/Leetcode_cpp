@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [0790-domino-and-tromino-tiling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0790-domino-and-tromino-tiling) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0931-minimum-falling-path-sum) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
 ## Complete Knapsack
 |  |
