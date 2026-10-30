@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2140-solving-questions-with-brainpower) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
