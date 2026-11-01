@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0386-lexicographical-numbers) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1765-map-of-highest-peak) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
@@ -971,4 +974,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
