@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0835-image-overlap) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0386-lexicographical-numbers) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
@@ -950,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
