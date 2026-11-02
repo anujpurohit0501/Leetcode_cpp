@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2055-plates-between-candles](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1765-map-of-highest-peak](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1765-map-of-highest-peak) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3882-minimum-xor-path-in-a-grid) |
