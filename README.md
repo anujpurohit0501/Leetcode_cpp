@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -964,11 +967,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Range Minimum/Maximum Query
 |  |
@@ -994,4 +999,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
