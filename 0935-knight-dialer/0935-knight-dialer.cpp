@@ -1,10 +1,15 @@
 class Solution {
 public:
+
 using ll=long long ;
 int mod=1000000007;
 unordered_set<char>st{'#','*'};
 vector<vector<char>>g;
-int dp[5][5][5001];
+bool v(int i,int j,int n,int m){
+    return i>=0 &&j>=0&&i<=n-1&&j<=m-1&&g[i][j]!='*'&&g[i][j]!='#';
+}
+vector<pair<int,int>>ppp{{-2,1},{2,1},{2,-1},{-2,-1},{1,2},{1,-2},{-1,2},{-1,-2}};
+int dp[4][3][5001];
 int tot;
 int f(int i,int j,int k){
     int n=g.size();
@@ -12,14 +17,12 @@ int f(int i,int j,int k){
     if(k==tot)return 1;
     ll a=0;
     if(dp[i][j][k]!=-1)return dp[i][j][k];
-    if(i-2>=0&&j-1>=0&&!st.count(g[i-2][j-1]))a+=f(i-2,j-1,k+1)%mod;
-    if(i-1>=0&&j-2>=0&&!st.count(g[i-1][j-2]))a+=f(i-1,j-2,k+1)%mod;
-    if(i-2>=0&&j+1<=m-1&&!st.count(g[i-2][j+1]))a+=f(i-2,j+1,k+1)%mod;
-    if(i-1>=0&&j+2<=m-1&&!st.count(g[i-1][j+2]))a+=f(i-1,j+2,k+1)%mod;
-    if(i+1<=n-1&&j+2<=m-1&&!st.count(g[i+1][j+2]))a+=f(i+1,j+2,k+1)%mod;
-    if(i+2<=n-1&&j+1<=m-1&&!st.count(g[i+2][j+1]))a+=f(i+2,j+1,k+1)%mod;
-    if(i+2<=n-1&&j-1>=0&&!st.count(g[i+2][j-1]))a+=f(i+2,j-1,k+1)%mod;
-    if(i+1<=n-1&&j-2>=0&&!st.count(g[i+1][j-2]))a+=f(i+1,j-2,k+1)%mod;
+    for(auto q:ppp){
+        int newi=q.first+i;
+        int newj=q.second+j;
+        if(v(newi,newj,n,m))a+=f(newi,newj,k+1)%mod;
+        a=a%mod;
+    }
     return dp[i][j][k]=a%mod;
 }
     int knightDialer(int tot) {
