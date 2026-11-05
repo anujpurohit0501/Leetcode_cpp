@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
