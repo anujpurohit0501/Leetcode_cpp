@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0480-sliding-window-median) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1052-grumpy-bookstore-owner) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0496-next-greater-element-i) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0480-sliding-window-median](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0767-reorganize-string) |
@@ -1007,4 +1011,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
