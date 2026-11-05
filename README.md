@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3026-maximum-good-subarray-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3026-maximum-good-subarray-sum) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2501-longest-square-streak-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
