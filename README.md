@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3693-climbing-stairs-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3776-minimum-moves-to-balance-circular-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3638-maximum-balanced-shipments](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3638-maximum-balanced-shipments) |
 | [3665-twisted-mirror-path-count](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3840-house-robber-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
