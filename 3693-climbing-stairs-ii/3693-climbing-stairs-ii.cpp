@@ -5,6 +5,7 @@ int dp[100001];
 int f(int i){
     int n=nums.size();
     if(i==n)return 0;
+    if(i>n)return 0;
     if(dp[i]!=-1)return dp[i];
     int a=1e9;
     if(i+1<=n)a=min(a,nums[i]+(i+1-i)*(i+1-i)+f(i+1));
