@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3355-zero-array-transformation-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3637-trionic-array-i) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Minimax
 |  |
 | ------- |
@@ -1045,4 +1048,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
