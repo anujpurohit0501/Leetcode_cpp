@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3026-maximum-good-subarray-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3026-maximum-good-subarray-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3164-find-the-number-of-good-pairs-ii) |
