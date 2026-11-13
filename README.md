@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0152-maximum-product-subarray) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
