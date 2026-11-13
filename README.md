@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0646-maximum-length-of-pair-chain) |
+| [0665-non-decreasing-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0739-daily-temperatures) |
