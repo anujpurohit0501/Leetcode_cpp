@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1690-stone-game-vii) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
