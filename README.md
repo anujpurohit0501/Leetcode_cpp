@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0475-heaters) |
+| [0556-next-greater-element-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0486-predict-the-winner) |
+| [0556-next-greater-element-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0779-k-th-symbol-in-grammar) |
