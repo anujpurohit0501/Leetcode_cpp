@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
 | [0956-tallest-billboard](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0956-tallest-billboard) |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1049-last-stone-weight-ii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
