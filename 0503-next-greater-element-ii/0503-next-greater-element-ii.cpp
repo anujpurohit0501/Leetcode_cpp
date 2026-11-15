@@ -2,17 +2,17 @@ class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
         int n=nums.size();
+        stack<int>st;
+        vector<int>a(n,-1);
         for(int i=0;i<n;i++)nums.push_back(nums[i]);
-        stack<int>stt;
-        vector<int>ans(n,-1);
         for(int i=0;i<nums.size();i++){
-            while(stt.size()>0 && nums[stt.top()]<nums[i]){
-                int ind=stt.top();
-                stt.pop();
-                if(ind<n)ans[ind]=nums[i];
+            while(st.size()&&nums[st.top()]<nums[i]){
+                int j=st.top();
+                if(j<n)a[j]=nums[i];
+                st.pop();
             }
-            
-            stt.push(i);
-        }return ans;
+            st.push(i);
+        }
+        return a;
     }
 };
