@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1980-find-unique-binary-string) |
 | [2055-plates-between-candles](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2055-plates-between-candles) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2409-count-days-spent-together) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
