@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2187-minimum-time-to-complete-trips) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2212-maximum-points-in-an-archery-competition) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-count-number-of-texts](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2266-count-number-of-texts) |
 | [2409-count-days-spent-together](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2409-count-days-spent-together) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0920-number-of-music-playlists) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Minimax
 |  |
