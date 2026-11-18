@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2707-extra-characters-in-a-string) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
