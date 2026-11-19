@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1288-remove-covered-intervals) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0767-reorganize-string) |
 | [0948-bag-of-tokens](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0948-bag-of-tokens) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0994-rotting-oranges) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1289-minimum-falling-path-sum-ii) |
