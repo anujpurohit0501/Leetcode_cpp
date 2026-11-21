@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Two Pointers
 |  |
 | ------- |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Number Theory
 |  |
 | ------- |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1686-stone-game-vi) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1094,4 +1098,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Shortest Path
+|  |
+| ------- |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 <!---LeetCode Topics End-->
