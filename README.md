@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3026-maximum-good-subarray-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
