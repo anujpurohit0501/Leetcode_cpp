@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1306-jump-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1765-map-of-highest-peak) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Ordered Set
 |  |
