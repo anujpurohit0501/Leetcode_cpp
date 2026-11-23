@@ -2,35 +2,26 @@ class ProductOfNumbers {
 public:
 using ll=long long;
 vector<ll>pr;
-multiset<int>m;
+int last=-1;
+
     ProductOfNumbers() {
         
     }
     
     void add(int num) {
-        if(pr.size()==0){pr.push_back(num);
-        if(num==0)m.insert(0);
-        return ;}
-        else{
-            if(num==0){
-                m.insert(pr.size());
-                pr.push_back(0);
-            }
-            else if(pr.back()!=0)pr.push_back(pr.back()*num);
-            else if(pr.back()==0){
-                pr.push_back(num);
-            }
+            if(pr.size()==0){pr.push_back(num);if(num==0)last=0;}
+            else if(num==0){pr.push_back(0);
+            last=pr.size()-1;}
+            else if(pr.back()==0)pr.push_back(num);
+            else pr.push_back(pr.back()*num);
+
         }
-    }
     
     int getProduct(int k) {
         int n=pr.size();
-        int l=n-k;
-        auto lw=m.lower_bound(l);
-        if(lw!=m.end()&&*lw<n)return 0;
-        if(l==0||pr[l-1]==0)return pr[n-1];
-        else return pr[n-1]/pr[l-1];
-
+        if(last>=n-k)return 0;
+        if(n-k==0||pr[n-k-1]==0)return pr.back();
+        return pr.back()/pr[n-k-1];
     }
 };
 
