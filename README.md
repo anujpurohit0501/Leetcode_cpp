@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1340-jump-game-v](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1250-check-if-it-is-a-good-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1362-closest-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1406-stone-game-iii) |
@@ -1068,10 +1071,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Brute-Force Search
 |  |
 | ------- |
