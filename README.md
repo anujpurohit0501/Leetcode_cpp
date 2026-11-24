@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0239-sliding-window-maximum) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0973-k-closest-points-to-origin) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0347-top-k-frequent-elements) |
@@ -1099,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Treap
 |  |
@@ -1116,4 +1122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
