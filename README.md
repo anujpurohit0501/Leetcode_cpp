@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Two Pointers
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3840-house-robber-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
