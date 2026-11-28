@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0767-reorganize-string) |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 | [1092-shortest-common-supersequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0480-sliding-window-median) |
 | [0713-subarray-product-less-than-k](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0930-binary-subarrays-with-sum) |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 | [1052-grumpy-bookstore-owner](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/0887-super-egg-drop) |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2055-plates-between-candles](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/2055-plates-between-candles) |
@@ -1149,13 +1152,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 | [3934-smallest-unique-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 | [3934-smallest-unique-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 | [3934-smallest-unique-subarray](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/3934-smallest-unique-subarray) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/anujpurohit0501/Leetcode_cpp/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
